@@ -16,6 +16,10 @@
     margin-right: 20px;
 }
 
+.main-screen a{
+    text-decoration: none;
+}
+
 .user-component__avatar--xl{
     width: 80px;
     height: 80px;
